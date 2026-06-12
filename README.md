@@ -18,8 +18,8 @@
 
 ### 🏆 Coding Profiles & Achievements
 
-*   🚀 **LeetCode** — **350+ Problems Solved** | Top **26.59%** Global Rank[cite: 1].
-*   ⭐ **CodeChef** — **2-Star Coder (Peak: 1426)** | Top **16.92%** Worldwide[cite: 1].
+*   🚀 **LeetCode** — **350+ Problems Solved** | Top **26.59%** Global Rank.
+*   ⭐ **CodeChef** — **2-Star Coder (Peak: 1426)** | Top **16.92%** Worldwide.
 
 <p align="left">
   <a href="https://leetcode.com/u/avg_coder78/" target="_blank">
