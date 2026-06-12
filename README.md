@@ -1,6 +1,6 @@
 # Hi there, I'm Gaurav Mer 👋 
 
-> **Passionate Software Engineer & ML Engineer** | B.Tech CSE Student at Graphic Era Hill University[cite: 1]. I specialize in building scalable web architectures with a **Backend-First** mindset and solving complex algorithmic problems.
+> **Passionate Software Engineer & ML Engineer** | B.Tech CSE Student at Graphic Era Hill University. I specialize in building scalable web architectures with a **Backend-First** mindset and solving complex algorithmic problems.
 
 ---
 
